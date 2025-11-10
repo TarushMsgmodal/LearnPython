@@ -1,0 +1,6 @@
+# Development only dependencies (linting, testing, etc.)
+-r requirements.txt
+
+# Additional dev tools
+ipython>=8.14.0
+ipdb>=0.13.13
