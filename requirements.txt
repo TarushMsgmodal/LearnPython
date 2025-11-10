@@ -1,0 +1,29 @@
+# Development dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0
+pylint>=2.17.0
+mypy>=1.4.0
+
+# Web framework (uncomment as needed)
+# flask>=2.3.0
+# fastapi>=0.100.0
+# uvicorn>=0.23.0
+
+# Database (uncomment as needed)
+# sqlalchemy>=2.0.0
+# psycopg2-binary>=2.9.0
+# pymongo>=4.4.0
+
+# API and HTTP clients
+requests>=2.31.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Data validation
+pydantic>=2.0.0
+
+# Utilities
+python-dateutil>=2.8.0
